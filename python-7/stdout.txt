@@ -1,0 +1,17 @@
+============================= test session starts =============================
+platform win32 -- Python 3.6.5, pytest-5.4.2, py-1.8.1, pluggy-0.13.1 -- C:\ProgramData\Miniconda3\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\NicoleDev\codenation\python-7
+collecting ... collected 1 item
+
+test_main.py::test_get_temperature_by_lat_lng[-14.235004--51.92528-16] PASSED [100%]
+
+============================== warnings summary ===============================
+C:\ProgramData\Miniconda3\lib\site-packages\_pytest\junitxml.py:417
+  C:\ProgramData\Miniconda3\lib\site-packages\_pytest\junitxml.py:417: PytestDeprecationWarning: The 'junit_family' default value will change to 'xunit2' in pytest 6.0.
+  Add 'junit_family=xunit1' to your pytest.ini file to keep the current format in future versions of pytest and silence this warning.
+    _issue_warning_captured(deprecated.JUNIT_XML_DEFAULT_FAMILY, config.hook, 2)
+
+-- Docs: https://docs.pytest.org/en/latest/warnings.html
+---- generated xml file: C:\Users\NicoleDev\codenation\python-7\output.xml ----
+======================== 1 passed, 1 warning in 1.27s =========================

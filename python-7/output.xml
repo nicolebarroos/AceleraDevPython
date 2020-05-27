@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="DESKTOP-P4KJ3MH" name="pytest" skipped="0" tests="1" time="1.273" timestamp="2020-05-26T15:16:37.922602"><testcase classname="test_main" file="test_main.py" line="19" name="test_get_temperature_by_lat_lng[-14.235004--51.92528-16]" time="0.001"></testcase></testsuite></testsuites>
