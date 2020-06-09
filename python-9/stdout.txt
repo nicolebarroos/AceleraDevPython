@@ -1,0 +1,22 @@
+============================= test session starts =============================
+platform win32 -- Python 3.6.5, pytest-5.4.2, py-1.8.1, pluggy-0.13.1 -- C:\ProgramData\Miniconda3\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\NicoleDev\codenation\python-9
+collecting ... collected 6 items
+
+test_submit.py::TestChallenge9::test_agent PASSED                        [ 16%]
+test_submit.py::TestChallenge9::test_event PASSED                        [ 33%]
+test_submit.py::TestChallenge9::test_event1 PASSED                       [ 50%]
+test_submit.py::TestChallenge9::test_group PASSED                        [ 66%]
+test_submit.py::TestChallenge9::test_user PASSED                         [ 83%]
+test_submit.py::TestChallenge9::test_user_group PASSED                   [100%]
+
+============================== warnings summary ===============================
+C:\ProgramData\Miniconda3\lib\site-packages\_pytest\junitxml.py:417
+  C:\ProgramData\Miniconda3\lib\site-packages\_pytest\junitxml.py:417: PytestDeprecationWarning: The 'junit_family' default value will change to 'xunit2' in pytest 6.0.
+  Add 'junit_family=xunit1' to your pytest.ini file to keep the current format in future versions of pytest and silence this warning.
+    _issue_warning_captured(deprecated.JUNIT_XML_DEFAULT_FAMILY, config.hook, 2)
+
+-- Docs: https://docs.pytest.org/en/latest/warnings.html
+---- generated xml file: C:\Users\NicoleDev\codenation\python-9\output.xml ----
+======================== 6 passed, 1 warning in 1.22s =========================
