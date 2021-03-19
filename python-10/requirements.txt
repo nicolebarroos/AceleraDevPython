@@ -15,7 +15,7 @@ dj-static==0.0.6
 Django==2.1.2
 django-bootstrap-form==3.4
 django-password-validation==0.1.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 filelock==3.0.12
 flake8==3.8.1
 idna==2.9
